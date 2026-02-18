@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hiDe2uzHfjM=",
+  "dgSpecHash": "E7ppsl5y588=",
   "success": true,
-  "projectFilePath": "/Users/brcampbell/Desktop/GradeCalculator/GradeCalculator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\brc06\\OneDrive\\Desktop\\CLockin\\GradeCalculator\\GradeCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brc06\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\brc06\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\brc06\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.13\\microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\brc06\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.13\\microsoft.netcore.app.host.win-x64.9.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

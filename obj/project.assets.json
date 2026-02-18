@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/brcampbell/.nuget/packages/": {}
+    "C:\\Users\\brc06\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brcampbell/Desktop/GradeCalculator/GradeCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\brc06\\OneDrive\\Desktop\\CLockin\\GradeCalculator\\GradeCalculator.csproj",
       "projectName": "GradeCalculator",
-      "projectPath": "/Users/brcampbell/Desktop/GradeCalculator/GradeCalculator.csproj",
-      "packagesPath": "/Users/brcampbell/.nuget/packages/",
-      "outputPath": "/Users/brcampbell/Desktop/GradeCalculator/obj/",
+      "projectPath": "C:\\Users\\brc06\\OneDrive\\Desktop\\CLockin\\GradeCalculator\\GradeCalculator.csproj",
+      "packagesPath": "C:\\Users\\brc06\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brc06\\OneDrive\\Desktop\\CLockin\\GradeCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/brcampbell/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\brc06\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -44,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -60,12 +60,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.13, 9.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[9.0.13, 9.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[9.0.13, 9.0.13]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[9.0.13, 9.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
