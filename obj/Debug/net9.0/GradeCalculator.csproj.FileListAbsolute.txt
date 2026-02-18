@@ -1,0 +1,14 @@
+/Users/brcampbell/Desktop/GradeCalculator/bin/Debug/net9.0/GradeCalculator
+/Users/brcampbell/Desktop/GradeCalculator/bin/Debug/net9.0/GradeCalculator.deps.json
+/Users/brcampbell/Desktop/GradeCalculator/bin/Debug/net9.0/GradeCalculator.runtimeconfig.json
+/Users/brcampbell/Desktop/GradeCalculator/bin/Debug/net9.0/GradeCalculator.dll
+/Users/brcampbell/Desktop/GradeCalculator/bin/Debug/net9.0/GradeCalculator.pdb
+/Users/brcampbell/Desktop/GradeCalculator/obj/Debug/net9.0/GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brcampbell/Desktop/GradeCalculator/obj/Debug/net9.0/GradeCalculator.AssemblyInfoInputs.cache
+/Users/brcampbell/Desktop/GradeCalculator/obj/Debug/net9.0/GradeCalculator.AssemblyInfo.cs
+/Users/brcampbell/Desktop/GradeCalculator/obj/Debug/net9.0/GradeCalculator.csproj.CoreCompileInputs.cache
+/Users/brcampbell/Desktop/GradeCalculator/obj/Debug/net9.0/GradeCalculator.dll
+/Users/brcampbell/Desktop/GradeCalculator/obj/Debug/net9.0/refint/GradeCalculator.dll
+/Users/brcampbell/Desktop/GradeCalculator/obj/Debug/net9.0/GradeCalculator.pdb
+/Users/brcampbell/Desktop/GradeCalculator/obj/Debug/net9.0/GradeCalculator.genruntimeconfig.cache
+/Users/brcampbell/Desktop/GradeCalculator/obj/Debug/net9.0/ref/GradeCalculator.dll
